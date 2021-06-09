@@ -128,7 +128,7 @@ int main(void){
 	
 	clock_t end_time = clock();
 	time_spent += (double)(end_time - begin_time) / CLOCKS_PER_SEC;
-	printf("Time elpased is %f seconds", time_spent);
+	printf("Time elapsed is %f seconds", time_spent);
 
 }
 
