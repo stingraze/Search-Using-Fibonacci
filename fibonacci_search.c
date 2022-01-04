@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-
+//Change database.txt with the filename you want to search.
+//File Updated on 1/4/2022 by Tsubasa Kato
 int arr_prime[] = {1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377};
 
 int length1;
